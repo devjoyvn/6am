@@ -984,3 +984,6 @@ pubnative.net, 1010071, RESELLER, d641df8625486a7b
 pubnative.net, 1010072, RESELLER, d641df8625486a7b
 pubnative.net, 1010073, RESELLER, d641df8625486a7b
 video.unrulymedia.com, 453209019, RESELLER
+connekt.ai, 2852512, RESELLER
+adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
+lijit.com, 543478, RESELLER, fafdf38b16bf6b2b
